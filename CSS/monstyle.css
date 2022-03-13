@@ -1,0 +1,45 @@
+﻿#titre-groupe {
+	color: #FF8C00;
+	text-decoration: underline;
+}
+table, td {
+	border-style: solid;
+	border-width: 1px;
+	border-color: white;
+}
+#titre-principal {
+	background-color: red;
+	color: white;
+	display: inline;
+}
+footer{
+
+	position:absolute;
+	bottom:0;
+	width: 100%;
+
+}
+body {
+	text-align: center;
+	background-image: url("https://img.freepik.com/vecteurs-libre/fond-noir-texture-fibre-carbone-sombre-fond-acier-texture-metal-noir_156943-113.jpg?size=626&ext=jpg");
+}
+table, ul {
+	margin-left: auto;
+    margin-right: auto;
+	display: inline-block;
+}
+#texte-arduino{
+	background-color: grey;
+	color: blue;
+	display: block;
+	border-style: solid;
+	border-color: red;
+	border-width: 2px;
+}
+li {
+	color: white;
+}
+
+
+
+
